@@ -2,6 +2,10 @@
 
 This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
 
+# Deployed
+
+For Deployed Link [click Here](https://restaurant-t21eya.turbo360-vertex.com/)
+
 ## Instructions
 After cloning into repo, cd to project root directory and install dependencies:
 
