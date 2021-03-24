@@ -6,7 +6,8 @@ This project was built with Turbo 360. To learn more, click here: https://www.tu
 
 For Demo [click Here](https://restaurant-t21eya.turbo360-vertex.com/)
 
-[Delicious House](https://user-images.githubusercontent.com/31997430/112284847-afb56c00-8caf-11eb-9d35-e23e537aa533.png)
+Delicious House![image](https://user-images.githubusercontent.com/31997430/112285320-31a59500-8cb0-11eb-87be-2afdf31e1e98.png)
+
 
 
 ## Instructions
