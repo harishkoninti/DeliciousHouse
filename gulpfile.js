@@ -52,6 +52,8 @@ gulp.task('copy-fonts',function(){
 
 })
 
+gulp.task('style', ['css-main', 'css-vendor', 'copy-fonts'], function(){})
+
 gulp.task('js-vendor', function(){
     return gulp.src(
         [
@@ -100,3 +102,7 @@ gulp.task('js-main', function(){
     .pipe(gulp.dest('./public/dist/js/'))
 
 });
+gulp.task('js', ['js-vendor', 'js-main'], function(){})
+gulp.task('prod', ['style', 'js'], function(){})
+gulp.task('default', ['style','js'], function(){})
+
