@@ -14,6 +14,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "gulp-autoprefixer": "^7.0.1",
+    "turbo-cli": "^0.39.6",
     "turbo360": "^1.8.69",
     "vertex360": "^0.30.39"
   },
