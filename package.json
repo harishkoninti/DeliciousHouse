@@ -8,7 +8,6 @@
     "serve": "turbo devserver",
     "test": "",
     "clean": "rm -rf ./public/dist",
-    "build": "npm run clean && NODE_ENV=production gulp prod",
     "postinstall": "turbo postinstall"
   },
   "dependencies": {
